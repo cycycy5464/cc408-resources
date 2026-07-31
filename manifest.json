@@ -1,1 +1,101 @@
-{"schema_version":1,"updated_at":null,"files":[]}
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-31T06:26:25Z",
+  "files": [
+    {
+      "path": "images/.gitkeep",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "pdfs/2009-exam.pdf",
+      "size": 36503036,
+      "sha256": "1c65c27740510fd79498a353285b56dd5784d71251ef5ec15be1f8319493dd32"
+    },
+    {
+      "path": "pdfs/2010-exam.pdf",
+      "size": 44625349,
+      "sha256": "88596b0d4e044ad8e591b9a0ab54c534f31d05346d939d18c8da5f5e313af4eb"
+    },
+    {
+      "path": "pdfs/2011-exam.pdf",
+      "size": 50550267,
+      "sha256": "b94df225970e53ac1ba09c1f55c9b1e43c26544c7813d1c907f8d564768ff2ed"
+    },
+    {
+      "path": "pdfs/2012-exam.pdf",
+      "size": 56133702,
+      "sha256": "362e1791096b7d46296f3d956e2559faf7535203022dd0601ea04ab96d14565a"
+    },
+    {
+      "path": "pdfs/2013-exam.pdf",
+      "size": 48290204,
+      "sha256": "04f196c24a8b4055da2437f7cc54fed4d58728defc328580d484a3420fec3242"
+    },
+    {
+      "path": "pdfs/2014-exam.pdf",
+      "size": 48600133,
+      "sha256": "9b42237a566601eb03a826d6ee5042612f0b9577963aa67012e4691d1137ae61"
+    },
+    {
+      "path": "pdfs/2015-exam.pdf",
+      "size": 52944135,
+      "sha256": "1651972bb05371fff6b228c457f509db205f08b52b5fc04fcfa3eb1837bbb2f0"
+    },
+    {
+      "path": "pdfs/2016-exam.pdf",
+      "size": 53327102,
+      "sha256": "7ea7ef37c06faf535585d78e5c791259b94c6d1821a9e13e2a203f445326244e"
+    },
+    {
+      "path": "pdfs/2017-exam.pdf",
+      "size": 54292355,
+      "sha256": "6d017875e49c3a04ec2926d5b9fb4c32a234d0d188d79b9ae33d0579c1e5e3b9"
+    },
+    {
+      "path": "pdfs/2018-exam.pdf",
+      "size": 47566403,
+      "sha256": "a91eb008d448ff4c285c682ec75c3a030101f8c299eecce715597d7dc766df24"
+    },
+    {
+      "path": "pdfs/2019-exam.pdf",
+      "size": 52653583,
+      "sha256": "f7b21f1ce4e810cb0155f73ce7d9bb72af5cda635676516e1cd40315b08a356b"
+    },
+    {
+      "path": "pdfs/2020-exam.pdf",
+      "size": 50311340,
+      "sha256": "7e22049d8c216cf4d7867fa1ba91f74077bd4eed4a7b7d97768eef2dbeb7507b"
+    },
+    {
+      "path": "pdfs/2021-exam.pdf",
+      "size": 49198096,
+      "sha256": "d03820014020ad2c9fc5e975ea7a973130b87bcf1d656da4cc117ee8f414f30a"
+    },
+    {
+      "path": "pdfs/2022-exam.pdf",
+      "size": 49672755,
+      "sha256": "2769c7d2d21bcda7222df98313f173f089cf5089eea227f16a4cf18939a50929"
+    },
+    {
+      "path": "pdfs/2023-exam.pdf",
+      "size": 48435628,
+      "sha256": "41f454ae925de460fc1784dd5876d751ecf50aa636efa0f7c7a88118d2a189ea"
+    },
+    {
+      "path": "pdfs/2024-exam.pdf",
+      "size": 49601108,
+      "sha256": "8b360fa07d0846869d78b696ad4fd6577e93529d0159600295038a3492bd6c45"
+    },
+    {
+      "path": "pdfs/2025-exam.pdf",
+      "size": 46874202,
+      "sha256": "0e105c5d52f19275cbddc3db15f51f0cb60099987e9192706ee2006869bcb70e"
+    },
+    {
+      "path": "pdfs/answer-sheet.pdf",
+      "size": 37460234,
+      "sha256": "74859ab47f0bdc2a724160d23e2a6aab3a6547bebf380ba16b45cdd161f2ce20"
+    }
+  ]
+}
